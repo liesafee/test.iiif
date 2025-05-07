@@ -7,5 +7,87 @@
             "All images loaded in liesafee/test.iiif project"
         ]
     },
-    "items": []
+    "items": [
+        {
+            "id": "https://liesafee.github.io/test.iiif/images/20240831_121343/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "20240831_121343"
+                ]
+            },
+            "height": 3468,
+            "width": 4624,
+            "items": [
+                {
+                    "id": "https://liesafee.github.io/test.iiif/images/20240831_121343/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://liesafee.github.io/test.iiif/images/20240831_121343/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://liesafee.github.io/test.iiif/images/20240831_121343/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 145,
+                                                "height": 109
+                                            },
+                                            {
+                                                "width": 289,
+                                                "height": 217
+                                            },
+                                            {
+                                                "width": 578,
+                                                "height": 434
+                                            },
+                                            {
+                                                "width": 1156,
+                                                "height": 867
+                                            },
+                                            {
+                                                "width": 2312,
+                                                "height": 1734
+                                            },
+                                            {
+                                                "width": 4624,
+                                                "height": 3468
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 4624,
+                                        "@id": "https://liesafee.github.io/test.iiif/images/20240831_121343",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 3468,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://liesafee.github.io/test.iiif/images/20240831_121343/canvas/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
