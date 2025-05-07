@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://liesafee.github.io/test.iiif/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in liesafee/test.iiif project"
+        ]
+    },
+    "items": []
+}
