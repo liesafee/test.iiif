@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 145,
+    "height" : 109
+  }, {
+    "width" : 289,
+    "height" : 217
+  }, {
+    "width" : 578,
+    "height" : 434
+  }, {
+    "width" : 1156,
+    "height" : 867
+  }, {
+    "width" : 2312,
+    "height" : 1734
+  }, {
+    "width" : 4624,
+    "height" : 3468
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 4624,
+  "@id" : "https://liesafee.github.io/test.iiif/images/20240831_134753",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 3468
+}
